@@ -2,3 +2,4 @@ Require js provide cleaner way to load dependancy for javacript application. kee
 
 bower install requirejs
 add script tag.
+bower search <searchTerm>
